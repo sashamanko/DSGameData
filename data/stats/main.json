@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "strength",
+    "minValue": 1,
+    "maxValue": 10
+  },
+  {
+    "id": 2,
+    "name": "magic",
+    "minValue": 1,
+    "maxValue": 10
+  },
+  {
+    "id": 3,
+    "name": "agility",
+    "minValue": 1,
+    "maxValue": 10
+  },
+  {
+    "id": 4,
+    "name": "luck",
+    "minValue": 1,
+    "maxValue": 10
+  }
+]
